@@ -97,7 +97,7 @@ export const heroConfig = {
     {
       variant: 'outline',
       text: 'Resume',
-      href: '/pdf/resume.pdf',
+      href: '/Pratyush_Dubey_Resume.pdf',
       icon: 'CV',
     },
     {

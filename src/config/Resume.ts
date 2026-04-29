@@ -1,3 +1,3 @@
 export const resumeConfig = {
-  url: 'https://drive.google.com/file/d/1ormIiMVpWGAMOZ3FZVj_XrKPkEmPlPQj/preview',
+  url: '/Pratyush_Dubey_Resume.pdf',
 };
